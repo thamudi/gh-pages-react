@@ -1,0 +1,22 @@
+.flex-box {
+  display        : flex;
+  align-items    : center;
+  justify-content: center;
+  flex-direction : column;
+  height         : 50vh;
+
+  div {
+    width : 100px;
+    height: 100px;
+  }
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  p {
+    text-align: center;
+  }
+}
